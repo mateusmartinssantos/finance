@@ -4,7 +4,7 @@ This is a Next.js project bootstrapped with create-next-app.
 Getting Started
 First, run the development server:
 
-bash
+´´´bash
 Copiar código
 npm run dev
 # or
@@ -61,10 +61,10 @@ Você pode começar a editar a página modificando app/page.tsx. A página atual
 Este projeto usa next/font para otimizar e carregar automaticamente a Geist, uma nova família de fontes para a Vercel.
 
 Funcionalidades
-Login seguro: Autenticação de usuário com as melhores práticas de segurança.
-Dashboard: Visão geral das finanças, incluindo totais, gráficos e tabelas de resumo.
-Receitas e Despesas: Lançamento de receitas e despesas mensais com rastreamento recorrente.
-Limites de Categoria: Defina um teto máximo de gastos por categoria.
+#Login seguro: Autenticação de usuário com as melhores práticas de segurança.
+#Dashboard: Visão geral das finanças, incluindo totais, gráficos e tabelas de resumo.
+#Receitas e Despesas: Lançamento de receitas e despesas mensais com rastreamento recorrente.
+#Limites de Categoria: Defina um teto máximo de gastos por categoria.
 Desafios Mensais: Acompanhe e gerencie desafios de controle de despesas.
 Planejamento Futuro: Planejamento financeiro para os meses vindouros.
 Investimentos: Gestão separada de investimentos por tipo (ações, poupança, etc.).
