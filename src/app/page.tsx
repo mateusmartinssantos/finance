@@ -1,7 +1,7 @@
-
+import App from "./App/app/pages";
 
 export default function Home() {
   return (
- <main>primeiro projeto nextjs</main>
+ <App/>
   );
 }
